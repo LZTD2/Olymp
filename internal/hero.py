@@ -16,7 +16,7 @@ class Hero:
         """
         Описание метода
         """
-        return self.x
+        return self.y
 
     def get_y(self):
         """
